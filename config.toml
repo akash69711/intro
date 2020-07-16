@@ -50,7 +50,7 @@ hasCJKLanguage = false
 
 	olderPosts = ""
 	newerPosts = ""
-	copyright = "Akash Mehta"
+	copyright = "©2020 Akash Mehta"
 
 	# show latest posts in single page
 	showLatestPosts = false
